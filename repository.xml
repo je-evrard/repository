@@ -9,6 +9,6 @@
 		<description><![CDATA[spxtest 1.0]]></description>
 		<name>spxtest</name>
 		<file>https://github.com/je-evrard/archives/blob/master/spxtest.1.0.zip</file>
-		<icon>https://github.com/je-evrard/archives/blob/master/spxtest.png</icon>
+		<icon>https://raw.githubusercontent.com/je-evrard/archives/master/spxtest.png</icon>
 	</plugin>
 </document>
